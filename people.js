@@ -1,0 +1,1 @@
+const objName = require('./names.js');
