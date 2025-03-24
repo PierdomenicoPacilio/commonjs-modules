@@ -1,5 +1,5 @@
-const objName = (firstName, secondName) => { return { firstName, secondName }; };
+const objName = (firstName, lastName) => { return { firstName, lastName }; };
 
-console.log(objName('matteo', 'giulia'));
+console.log(objName('matteo', 'rossi'));
 
 module.exports = objName;
